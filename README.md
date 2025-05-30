@@ -61,7 +61,7 @@ Data visualizations in Tableau to highlight disparities, averages, and trends.
 Filterable dashboards for user-interactive exploration by demographic variables.
 
 
-📌 Key Insights
+## 📌 Key Insights
 Patterns in performance by parental education level.
 
 Differences in achievement between students with free/reduced vs. standard lunch.
